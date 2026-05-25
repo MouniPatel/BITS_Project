@@ -1,0 +1,7 @@
+public class StringBufferAppend {
+    public static void main(String[] args) {
+        StringBuffer sb = new StringBuffer(" Mounika ");
+        sb.append(" Dasari ");
+        System.out.println(sb);
+    }
+}
