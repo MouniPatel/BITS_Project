@@ -1,10 +1,11 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        ".vscode/day7.java",
         ".vscode/day6",
         ".vscode/day5",
         ".vscode/day4",
         ".vscode/day3",
-        ".vscode/day7.java"
+        ".vscode"
     ]
 }
